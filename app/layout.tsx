@@ -15,6 +15,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Desafío 28 Días — Floripa Calistenia",
   description: "¡Felicitaciones! Tu Desafío de 28 Días comienza ahora.",
+  icons: {
+    icon: "/logo-floripacalistenia.webp",
+  },
 };
 
 export default function RootLayout({
