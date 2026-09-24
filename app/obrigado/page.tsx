@@ -131,7 +131,7 @@ export default function ObrigadoPage() {
             </a>
             <div className="mt-4">
               <a
-                href="https://wa.me/554896510138"
+                href="https://wa.me/5548996510138"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-cta-green active:bg-cta-green-hover sm:hover:bg-cta-green-hover text-white font-semibold px-5 py-2.5 rounded-lg transition-colors text-sm sm:text-base"
